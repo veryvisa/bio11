@@ -1,0 +1,9 @@
+这是关于生命特征与生物分类的快速简报掌握这些基础分类术语能帮我们迅速理清自然界复杂物种的命名与归类逻辑第一,咱们得先聊聊分类学,也就是Taxonomy它是一门为生物命名并归类的科学
+
+记得窍门很简单,Taxys是排列,Nomals是规则也就是排列生物的规则这里头最常用的叫双名法,Binomial Nomenclature你看,BI是R,Nomen是名,也就是两个名字鼠名首字母大写,种加此小写
+
+第二,来看看具体的层级鼠,也就是Genus,是由亲缘很近的物种组成的类群Genus就像咱那姓,狮子和老虎都姓Pansera那物种呢,Species就是能互相交配并产生可遇后代的生物了千万记得,Species是单副数同行的
+
+再往大看,分类里最大的一级是欲,Domain,它高于界你直接把Domain当成最大的领地就行最后,咱们快测一下碰到这题,A group of the same species living in the same area is a答案直接选Population
+
+因为,one species in one place is a population再一题,In the name Homo sapiens,Sapiens is the答案自然是SpeciesThe second part of the scientific name is the species

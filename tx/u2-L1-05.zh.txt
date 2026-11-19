@@ -1,0 +1,15 @@
+这是一份关于演化生物学核心概念的快速简报以下内容提炼自生命科学复习笔记带你诉过五个关键术语及考题第一,物种形成speciation也就是指形成新物种
+
+有个小技法,species加上ation那新物种怎么保持独立呢?全靠生殖隔离,reproductive isolation这种屏障让群体没法交配或繁育后代isolate源于拉丁语里的岛屿
+
+就像孤岛一样被彻底隔开第二,地理隔离,geographic isolationgeo是地,graph是图指自然屏障,把种群分开来,直接听题
+
+a river splits one square population into two this is geographic isolation 理由很简单 a physical barrier separates the groups 第三,适应辐射,adaptive radiation
+
+指单一祖先迅速分化出多个物种占据不同生态位radiation嘛,就像阳光一样从中心向外散开最后,趋同演化
+
+convergent evolution 指远亲因为环境相似 慢慢演化出相似特征 convergent以为汇聚 也就是熟途同归
+
+接着五个词我们就理清了物种分化与环境适应的核心机制看最后一题sharks and dolphins have similar body shapes
+
+but are not closely related this is convergent evolution similar environments produce the similar trees in unrelated groups

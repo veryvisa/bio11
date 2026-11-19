@@ -1,0 +1,19 @@
+so let's just jump right into the first concept, which is the obligate parasite. That is the foundation for everything else we're going to talk about today. I really like the memory hook in the text for this one. It says obligate means obliged or forced, which is exactly right. The quick check in the notes asked why viruses are called this. And well, the answer is that they cannot survive or reproduce without living in or on a host cell.
+
+So they literally have no choice, no choice at all. They are entirely dependent on that host. Okay. So if they are forced to use a host to survive, what exactly are they invading? Well, that depends, but it leads us perfectly into a very specific type of virus called a bacteriophage. A bacteriophage. Got it. Yeah. And answering the quick check for this term, they are viruses that specifically infect bacteria.
+
+Oh, wow. And I see the literal translation from the source here as an analogy. So bacteria means bacteria, obviously, and phage means eater. Right. So that makes them literal bacteria eaters.
+
+Yeah. Literal bacteria eaters, which sounds pretty intense. It really does. So now that we know who this bacteria eater is targeting, how exactly does it consume and destroy its host? There are two main strategies of attack here. The first one is the lytic cycle.
+
+Okay. The lytic cycle. How does that one work? The quick check in the notes explains it clearly. Basically, the virus injects its DNA, then copies itself incredibly fast, and then it bursts the host cell. Wait, it just bursts it? Yeah. It bursts or lices the cell to release all the new viruses.
+
+See, bursting the cell immediately seems like a really fast, but kind of short-sighted strategy. It is definitely a brute force approach. Right. I mean, you're destroying your own factory. Is there a sneakier way for the virus to survive? Yes, actually. That is where the second strategy comes in, which is the lysogenic cycle. The lysogenic cycle. Okay.
+
+In this cycle, the viral DNA joins the host's chromosome and basically just hides. Hiding in plain sight. Exactly. It gets copied quietly each time the cell divides, and it doesn't kill the host right away. Oh, that is so much stealthier. And the notes have a great memory hook for this cycle, too. It says,
+
+sleeping first, bursting later. That is the perfect way to describe it. But wait, how do the two cycles fit together? Like, it can't just sleep forever, right? Right. It does not sleep forever. The test questions in the notes reveal the key connection here. There is a trigger.
+
+A trigger? Like, what kind of trigger? Well, something like stress, for example? Environmental stress can act as a trigger. Oh, wow.
+
+Yeah. So that stress can switch the virus from the quiet, lysogenic cycle right back into the destructive lytic cycle. So it just flips the switch.

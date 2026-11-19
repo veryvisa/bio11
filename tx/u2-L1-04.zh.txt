@@ -1,0 +1,11 @@
+这是关于竞争与演化核心术语的快速要点梳理这份资料梳理了演化生物学里的三个核心词汇帮你迅速掌握生物是怎么争夺资源的以及演化在不同时间尺度上到底是怎么表现的好 第一我们来看竞争 也就是competition
+
+它指的是生物争夺同一种有限资源比如食物 水或者空间资料里的记忆窍门是com等于一起petry等于追求 追求同一样东西第二是微观演化 microevolution
+
+它指的是种群内等微基因频率在几代之间发生的小变化记忆窍门很简单 micro等于小咱们直接看资料里的一道测试题which is the original source of new alleles答案是mutation
+
+比如是mutations create new allelesselection only source them最后是宏观演化 macroevolution它指的是经历很长时间的大变化比如新物种和大类群的起源
+
+记忆窍门是macro等于大咱们把概念简单串联一下微观演化是一个种群内等微基因频率的小变化而宏观演化则是长时间的大变化包括新物种和新类群
+
+我们来看最后一道考试题microevolution is best described as答案是a change in allele frequencies in a population理由就是small scale change in allele frequencies

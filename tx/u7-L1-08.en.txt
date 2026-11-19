@@ -1,0 +1,15 @@
+This is the brief on animal body plans. This brief covers four fundamental biology terms outlining how different animals support their bodies and circulate their blood. First, let's dive into structural support with the endoskeleton, which is just a skeleton inside the body, like the bones of a vertebrate. Your memory hook is super simple.
+
+Endo equals inside. So, do humans have an endoskeleton? Yes. Now, compare that to a hydrostatic skeleton. This is a fluid-filled body compartment that muscles squeeze to move, as in an earthworm.
+
+Remember it like this. Hydro equals water. Static equals standing. Quick check. Which animal moves using a hydrostatic skeleton?
+
+An earthworm. Second, let's transition from physical support to how these bodies actually move blood. Take an open circulatory system where blood leaves the vessels and baits the organs directly. The hook here? Open equals not sealed.
+
+Do insects have an open or closed circulatory system? Open. Now, in a closed circulatory system, the blood stays inside vessels all the time. The hook is just as easy. Closed equals sealed in vessels.
+
+Do vertebrates have an open or closed circulatory system? Closed. Finally, let's connect these skeleton types together with a really quick review. An exoskeleton is a hard covery, outside, as in insects. An endoskeleton is inside, as in vertebrates.
+
+And a hydrostatic skeleton is fluid squeezed by muscles, as in earthworms. Try this test prompt. A crab has a hard outer covering. It is an exoskeleton. Exo equals outside.
+
+Here is the last prompt. An earthworm moves by squeezing fluid with muscles. This is a hydrostatic skeleton. The fluid acts as the skeleton.

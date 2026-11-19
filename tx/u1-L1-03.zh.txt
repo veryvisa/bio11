@@ -1,0 +1,23 @@
+这是关于生命特征与分类的极简素来咱们今天直击从细胞到个体的五个核心生物学术语带你快速掌握它们的定义记忆窍门和层级关系完全没有废话哦首先呢来看单细胞与多细胞的基础概念
+
+提到单细胞的英文是unicellular它的定义就是整个生物只有一个细胞构成记忆窍门uni是一也就是只有一个细胞那多细胞的英文叫multicellular
+
+意思是有许多相互协作的细胞构成窍门是multi代表许多其次细胞会进阶构成更高层级的三个概念第一个是组织英文tissue指一群形态相似执行同一功能的细胞
+
+窍门是组织就像同一种细胞组成的小队第二个是器官英文organ由几种组织构成共同完成母乡任务的身体部分
+
+窍门呢器官就是由几种组织组成的工具第三是器官系统英文organ system也就是几个器官协同完成身体的母乡大功能
+
+窍门是系统等于同一支队伍里的几个器官最后咱们把概念串联起来从细胞到个体细胞组成组织组织组成器官
+
+器官组成系统最后系统组成个体层级越高它的功能也就越大来
+
+直接快测题目一puts these in order from smallest to largestorgancell
+
+organism tissue 答案是 cell tissue
+
+organ organism 理由 the levels go cell tissue
+
+organ organ system organism 题目二 which level includes non-living factors such as soil and sunlight
+
+答案是ecosystem理由an ecosystem is a community plus its non-living environment

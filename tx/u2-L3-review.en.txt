@@ -1,0 +1,13 @@
+This is the brief on evolutionary biology. We're breaking down the mechanics of how life unrolls over time, which is absolutely crucial for understanding everything from the origin of species to antibiotic resistance. First, let's look at how populations actually change. Evolution requires variation, and the original source of new alleles,
+
+which are really just different versions of a gene, is mutation. Basically a tiny DNA typo. Natural selection then favors the traits that best suit the environment. Now, you might think fitness and nature means being the biggest or strongest, right? Well, not quite.
+
+In biology, fitness simply means your success at surviving and leaving more offspring. Second, how do entirely new species emerge? It usually happens when populations get cut off from each other through geographic isolation. Think of gene flow kind of like water moving freely between groups. But when a physical barrier acts like an island cutting them off,
+
+it leads to divergent evolution, where they take completely different paths. On the flip side, unrelated groups facing similar environments can undergo convergent evolution, just like sharks and dolphins. Finally, how do we know all this actually happened? We look at the physical record left behind.
+
+We rely heavily on transitional fossils acting as evolutionary bridges, alongside molecular evidence in our DNA. Now, if a bird and an insect both have wings, does that mean they share a recent common ancestor? No way. Those are analogous structures.
+
+They do the same job, but have totally different origins. That's entirely different from homologous structures, like a human arm and a whale flipper, which share the exact same underlying bones. Ultimately, evolution is the change in a population's inherited traits over generations, driven by mutations and environmental pressures,
+
+and recorded clearly in our DNA and fossils.

@@ -1,0 +1,23 @@
+这是一份关于演化证据的精简概括,带你直接过一遍核心术语和考点。第一,化石,fossil,也就是保存下来的古生物遗体或遗迹。记住,它源自拉丁语,意思就是被挖出来的东西。
+
+第二,过度化石,transitional fossil,它同时带有较早和后来类群的特征。transition就是过度嘛,就像一座连接两端的桥。第三,同源结构,homologous structure,指的是不同物种因为有共同祖先而相似的身体部位。
+
+此跟homo表示相同,代表同一来源。第四,同工结构,analogous structure,这是功能相似但并非来自同一祖先的部位。窍门是analogy仅仅代表功能上的类比。
+
+第五,退化结构,vestigial structure,那些祖先里有用,但现在基本没用的退化器官,vestigia指的就是留下的痕迹。第六,比较胚胎学,comparative embryology。
+
+去比较不同物种早期的胚胎发育,氢元进的类群会极其相似,因为embryo指的就是最早期。第七,分子证据,molecular evidence。
+
+对比不同物种DNA或蛋白质的相似程度来反映氢元远近,DNA就是记录氢元的分子。第八,抗生素耐药性,antibiotic resistance,指细菌抵抗抗生素存活的能力,还会通过自然选择扩散。拆开看,anti是对抗,bio,生命,resistence就是抵抗。
+
+第九,性选择,sexual selection,对有助于获得配偶的性状的选择,比如孔雀的尾羽,sexual自然与配偶有关。咱们串下逻辑啊,同源结构有共同祖先,但功能刻意不同,同工结构功能相同却来自不同祖先。总结这四条证据就是,化石显示了随时间的变化,同源结构显示共同祖先,脊椎动物胚胎非常相似。
+
+最后,DNA相似度完美印证了轻元数。接下来,考试会怎么问?题目,microevolution is best described as答案是,a change in allele frequencies in a population。
+
+理由是,small scale change in allele frequencies。题目,a human arm and a whale flipper have the same bones, these are答案是,homologous structures。
+
+理由是,same underlying structure from a common ancestor。题目,after a hurricane kills most of an island's lizards, the survivors have fewer alleles, this is答案是,the bottleneck effect。
+
+理由是,a sharp drop in population size。题目,a fossil with features of both fish and four-legged animals is a答案是,transitional fossil。
+
+理由是,it shows a link between two groups。题目,which evidence compares DNA between species?答案是,molecular evidence.理由是,DNA and protein similarities show relatedness.

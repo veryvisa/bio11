@@ -1,0 +1,27 @@
+这里是关于第三单元微生物学病毒细菌与骨菌的极简摘要别看这些极微小的微生物microorganism处在生命的边缘它们其实有着相当惊人的结构和繁衍方式呢
+
+第一咱们先聊聊病毒virus说着哪它甚至不算完全的生命体没有新陈代谢
+
+基本就是包在衣壳里带点包膜和刺突的遗传物质作为专性寄生物obligate parasite它必须得劫持宿主细胞
+
+host cell 要么靠裂解周期 lytic cycle 疯狂复制 直接撑破细胞
+
+要么走容缘周期lysogenic cycle悄悄把DNA潜伏进去第二就是细菌bacteria了
+
+这种单细胞原核生物最关键的特征是细胞壁里含有钛聚糖peptidoglycan它靠二分裂
+
+binary fission 极足复制 或者通过结合 conjugation 传递智力
+
+plasmid 按形状分呢 有球菌 cocci 干菌
+
+bacilli 和螺旋菌 spirula 其实它们用处很大 常做大自然的分解者
+
+decomposer 或是进行固氮作用 nitrogen fixation 最后来看看 骨菌
+
+archia 它完全没有太菊糖 是个能在极高温 或高盐环境里 生存的极端微生物
+
+extremophile 通常咱们用抗生素 antibiotic 精准击溃细菌细细胞帽 但这招对完全没这结构的病毒
+
+毫无办法要对付这种病原体pathogen咱们的终极武器就是疫苗vaccine了
+
+疫苗让免疫系统接触无害的病原体片段身体产生记忆细胞真正的病原体到来时就能快速应对

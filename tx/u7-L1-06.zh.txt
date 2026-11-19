@@ -1,0 +1,19 @@
+这是一份关于动物身体结构的简报咱们先简单铺垫一下背景你知道其实每一个复杂的动物啊最初都只是由受精卵分裂成的一个空心球也就是囊胚
+
+随后它会向那凹陷形成带有胚层和原始开口的圆长胚那为了彻底搞懂这个过程咱们得抓住四个核心要点首先第一分解
+
+英文是segmentation这说的就是身体由重复的体系构成像蚯蚓啊昆虫都是有个窍门
+
+你直接把segment记作一段就行了第二圆口动物也就是protostome这类动物配胎的第一个开口
+
+最终发育成嘴比如蠕虫蜗牛还有昆虫记住proto代表最先
+
+stoma是口第三后口动物英文叫deutrostome它们刚好相反
+
+原始开口先发育成肛门嘴是后来才形成的比如海星和咱们脊椎动物你可以这样记deutero意思就是第二
+
+最后第四个脑胚blast吃了它就是个有早期细胞构成的空心球记住blast等于牙好了
+
+咱们直接用两道题来快速检验一下如果遇到题目问a jellyfish shows答案直接选radio symmetry因为pods radiate around the center
+
+那么这道题which germ layer forms the nervous system and skin答案毫无疑问是acto的理由很简单acto等于outside

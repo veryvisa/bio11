@@ -1,0 +1,7 @@
+这是为您梳理单元一预览生命的特征与分类核心要点的极简素报。这份学习笔记精准提炼了什么是生命,生物如何分层组织,以及科学家对生物进行命名和分类的系统方法。第一,什么算是生命呢?生物由cell细胞构成,靠能量进行metabolism新陈代谢,对环境的stimulus、刺激做出response反应。
+
+记住,永远先刺激后反应。出汗就是靠homeostasis,稳态维持体温。细胞组成组织 Organ器官和个体。同物种聚成population种群,不同种凑成community群落,加环境就是ecosystem生态系统。第二,Taxonomy分类学,包含Domain域、kingdom界、phylum门、class纲、order目、family科、genus属、species种,背下口诀就好:Dear King Philip came over for good soup。Binomial nomenclature双名法是大写署名加小写种家词皆为解体无细胞核的Bacteria细菌域与Archia骨菌域是Procariot原核生物
+
+有核的Eukaria真核域叫Eukaryot真核生物最后鉴定生物用Dichotmos Key二期检缩表每步二选一往下找想理性亲缘就看Clydogram分支图分差点代表Common Ancestor
+
+共同祖先分差越近亲缘越近千万只看分差别管末端顺序Derived Character衍生特征出现在某个类群并传给他的后代羽毛标志鸟类这一只性状帮助我们划分之图

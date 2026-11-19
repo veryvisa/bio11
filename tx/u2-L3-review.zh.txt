@@ -1,0 +1,105 @@
+这是关于第二单元演化复习的快速核心精要这份资料将带你快速过一遍生命随时间展开的核心机制从基础变异到星部种形成
+
+并直接击破考题陷阱第一咱们来看变异基因库与自然选择的机制演化evolution
+
+你就把它想象成生命故事的展开生物的特征叫性装trade就像画笔画下的一道线大自然要挑选
+
+前提必须得有变异variation那星基因哪来的突变mutation
+
+就像DNA指令里写了错别字这造就了星等位基因allio也就是菜谱的不同版本能传给后代的叫可遗传性状
+
+heritable 所有等位基因聚一块 就是基因库 基因pool 演化的最小表现
+
+就是等位基因频率allio frequency发生变化大自然亲自挑选这是自然选择
+
+natural selection 谁能留下更多后代 谁的适合度 fitness就高 能帮着生存的遗传特征
+
+叫适应adaptation环境逼着你变的这股劲叫选择压力selection pressure
+
+它引发了争夺资源的竞争competition这一切如果在小使徒发生就是微观演化micro evolution
+
+大使徒就是宏观演化macro evolution第二新物种形成灭绝及干扰因素新物种形成
+
+speciation 关键在生殖隔离 reproductive isolation 像孤岛一样断了联系 最常见的是地图上分开的地理隔离
+
+geographic isolation 如果短时间像阳光散开一样 占领新地盘 叫适应辐射 adaptive radiation
+
+环境相似导致长得像是趋同演化convergent evolution反过来适应不同条件变样了是趋异演化
+
+divergent evolution 互相影响推着变 叫协同演化 coevolution 彻底消失就是灭绝
+
+extinction 一次死一大屁叫大灭绝 mass extinction 人为干扰的 有挑性状的人工选择
+
+artificial selection 和直接改DNA的基因修饰 genetic modification 靠运气瞎变的 叫遗传飘变
+
+genetic drift 基因在种群间像水一样流动 叫基因流 基因flow 数量骤减
+
+只剩少数的叫瓶颈效应bottleneck effect少数个体跑出去见新群的叫电击者效应
+
+funder effect 最后演化证据与一错考题之际 化石 fossil 是挖出来的遗体遗迹
+
+过度化石transitional fossil是桥梁同源结构homologous structure
+
+来源相同同工结构analogous structure纯属类比没用的痕迹
+
+是退化结构vestigial structure比较配胎学comparative embryology看早期发育
+
+分子证据molecular evidence比对DNA和蛋白质现实中还有细菌的抗生素耐药性antibiotic resistance
+
+以及有助于找对象的性选择sexual selection英文题目What is the prerequisitefor natural selection
+
+among individuals of the same species? 答案 Variation 理由
+
+Individuals must have differences for nature to select 英文题目 What provides the source of new alleles
+
+by changing the DNA sequence? 答案 Mutation 理由 Typos in DNA
+
+create new versions of genes? 英文题目 What consists of all the alleles carried by all individuals
+
+in the population? 答案 Jin pool 理由 It pools all
+
+the genetic information together 英文题目 ! What is the smallest manifestation of evolution
+
+in a population? 答案 Change in allele frequency 理由 The proportion of alleles
+
+in the population shifts 英文题目 What describes the success of an individual
+
+in surviving and reproducing? 答案 Fitness 理由
+
+It measures who leaves more offspring not just physical strength 英文题目 What occurs
+
+when a population is separated by a natural barrier? 答案 Geographic isolation
+
+理由Populations are dividedon the mapand cannot mix英文题目
+
+What is it called when new species differentiate rapidly to occupy different ecological niches?
+
+答案Adaptive radiation理由Species spread outlike rays of sunlight
+
+Inwent What happens when similar environments cause unrelated species to develop similar features?
+
+答案Convergent evolution!理由Different paths
+
+converge on the similar outcome Inwent What process relies on human preference to pick specific traits?
+
+答案Artificial selection理由Humans make the choicemaking it artificial
+
+Inwent What describes random changes in allele frequencies due to chance?
+
+答案Genetic drift!Bottleneck effect理由
+
+Only a few individuals pass through the narrow bottleneck Inwent What type of structure
+
+indicates a common ancestor due to its similarity? 答案 Homologous structure 理由
+
+Structures have the same origin Inwent What do we call an organ that has lost its function
+
+and remains only as a trace? 答案 Vestigial structure 理由 It is mainly
+
+a left-over trace of the past Inwent What treat helps an individual
+
+obtain a mate? 答案 Sexual selection 理由 It is related
+
+to mating success Inwent Which evidence compares DNA between species?
+
+答案Molecular evidence理由DNA and protein similaritiesshow relatedness

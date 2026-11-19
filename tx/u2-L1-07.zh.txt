@@ -1,0 +1,21 @@
+这是一份带你快速搞懂生物演化核心术语的要点速览掌握这六个概念你就拿到了理解生物性状如何被筛选与改变的底层密钥第一人为干预的影响比如人工选择
+
+Elefacial Selection 就是人类挑选个体繁殖 记住 Elefacial是人造的 由人来选
+
+人们让具有想要性状的个体繁殖野芥菜就是这样变成了咱们熟悉的西兰花卷心菜和羽衣甘蓝还有基因修饰Genetic Modification
+
+指直接改变生物的DNA窍门是Modify等于改变所以基因改造就是有目的的改基因第二基因的随机变化与移动先看遗传飘变
+
+Genetic Drift 指等微基因频率在待机间的随机变化 这在小种群里面最明显 想想Drift就是随波飘流 纯靠运气
+
+不是靠适应对吧还有基因流Gen Flow指个体迁移繁殖后
+
+等微基因在种群间转移这超好机基因就像水一样在种群间流动第三种群规模的极端变化
+
+瓶颈效应Bottolineck Effect指种群数量骤减导致基因库变小就像瓶颈很窄只有少数能通过
+
+而电击者效应Founder Effect则是少数个体建立新种群只带有原等微基因的一小部分毕竟Founder就等于创始者吧
+
+好 咱们直接来波测验Which is the original source of new alleles?答案是MutationMutations create new allelesSelection only source them
+
+下一题A river splits one squirrel population into twoThis is geographic isolationA physical barrier separates the groups

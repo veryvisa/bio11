@@ -1,0 +1,27 @@
+这是一份关于生物检索表与系统发生术的快速摘要我们将直接拆解八个核心分类学术语及记忆敲门带你快速看懂生物的演化联系那么我们该如何把这些图表串联起来呢先看鉴定工具
+
+最常用的是二期检索表Dichotmos Key敲门是Decho表示分成两半Tomas是切就是每一步一分为二
+
+从第一步开始读两个选项选符合标本的往下走直到得出名字就行接着看演化图谱系统发生PhylogenyPhylo代表族
+
+Jenny代表起源也就是族谱式的演化史用来表示亲缘关系的是分支图KleagramKleado是分支
+
+Gram是图注意啊图上的每个分叉点就是一个共同祖先Common Ancestor共同祖先越近
+
+亲缘关系就越近所以得看分叉点绝不看末端的排列顺序图上能减下的一整根树枝叫净化枝
+
+Klead 包含祖先加全部后代 而衍生特征 Derived Characteristics 就是后来新增并传给后代的形状
+
+比如鸟类的羽毛正是他们帮咱们画出了图最后分类系统六届系统Six Kingdom System
+
+直接记首字母ABPFPA三域系统Three Domain System当成三个大盒子记就行
+
+BAE 考试会怎么问这一部分 以及每个答案的理由 A mushroom A mushroom absorbs food
+
+from dead matter It is a a heterotroph It cannot make its own food So it is a heterotroph
+
+A dichotomous key gives how many choices at each step Two. Dichotomous means
+
+two-way On a cladogram a branch point represents a common ancestor. Each node is a common ancestor of the groups that branch from it.
+
+A clade includes an ancestor and all its descendants. A clade is one ancestor plus every descendant.

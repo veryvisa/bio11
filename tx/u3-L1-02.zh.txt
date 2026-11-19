@@ -1,0 +1,21 @@
+也就是专性寄生物这里有个记忆窍门obligate的意思就是非如此不可也就是说他们一旦离开了宿主那就完全没法生存或者繁殖了
+
+比如那些专门感染细菌的病毒叫做bacterial phage 氏菌体记住啊bacterial代表细菌而phage就是吞噬
+
+咱们立马来看一道随唐测验题目是viruses are called obligated parasitesbecause they答案非常直接
+
+can reproduce only inside a host cell 为什么呢 they must use a host cell to reproduce 其次既然必须要寄生 那他们具体是怎么操作的呢
+
+这就引出了两套循环策略第一套是简单粗暴的lytic cycle也就是裂解周期顾名思义lysis就是裂开
+
+病毒强行附着并注入DNA利用宿主细胞疯狂复制最后直接把细胞给撑破新病毒就继续去感染其他细胞
+
+至于第二套叫做lysogenic cycle也就是容缘周期这招就狡猾的多了它的套路是先潜伏后裂解病毒的DNA会整合进宿主染色体
+
+也就是DNA里随着细胞分裂悄悄复制碰到压力等诱因才会转回裂解周期咱们看看第二道考题
+
+in the lysogenic cycle viral DNA 答案也很明确 joins the host's DNA and it's copied with it
+
+总而言之说到底病毒无非就是通过强制借用宿主细胞要么直接爆破要么就悄悄潜伏复制
+
+理由是it hides in the host chromosome这种情况下

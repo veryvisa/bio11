@@ -1,0 +1,13 @@
+This is the brief on classifying life and mapping evolutionary history. Here is your biology cheat sheet, explaining the tools we use to identify organisms and map their places on the family tree of life. First, the dichotomous key. It identifies an organism by making you choose between two descriptions at every step. Just like a choose-your-own-adventure book.
+
+The hook? Dico means into and tomos means cut. So, cut into each time. Quick check. How many choices does a dichotomous key give at each step?
+
+Answer, two. Second, phylogeny. This is the evolutionary history of a species. The hook? Is phylo for tribe and jenny for origin, meaning family tree origin.
+
+Quick check. What does a phylogeny show? Answer, how species are related through evolution. Third, the cladogram. It's a branching diagram showing relations via shared traits.
+
+Here, cladogram means branch and gram means picture, giving us a branch picture. Quick check. On a cladogram, which two species are most closely related? Answer, the two sharing the most recent common ancestor. Don't read the tips left to right.
+
+Tracing back to the nearest branch point is all that matters. Finally, a clade. Think that as a whole branch cut at one point. The ancestor and every descendant. Quick check.
+
+Does a clade include the common ancestor and all descendants? Answer, yes. It includes both. For tests, since a mushroom absorbs dead matter and can't make its own food, it's a heterotroph.

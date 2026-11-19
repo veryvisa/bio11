@@ -1,0 +1,65 @@
+这是一期关于细菌结构与繁殖的核心知识简报我们将直接剔除荣藏信息带你快速理清细菌的内部构造三种基本形态以及繁衍生存方式直接核心考点
+
+首先来看看细菌的装备零件最外层是像城墙样的细胞壁构成它的材料叫钛聚糖拆开看
+
+Peptid代表蛋白质Glycan代表糖也就是蛋白质加糖往里面看有核糖体
+
+ribosome 指核糖 some 指小体 注意哦
+
+细菌是没有细胞核的它的DNA是成环状的挤在一个象核的区域这叫拟核Nucleoid
+
+此外它还有一个额外的小环状DNA包叫做智力Plasmate外观上
+
+有些细菌套着保护壳也就是夹膜Capsule有的带有像鞭子一样的鞭毛Flagulum
+
+拉丁语就是鞭子还有一维毛的菌毛Pilus由此可见细菌有细胞壁
+
+细胞膜核糖体DNA呈环状位于你核它们没有细胞核
+
+有些细菌还带有夹膜边毛或菌毛好
+
+Second 这些零件组合起来啥样呢 就三种基本形态 囚菌 Caucas
+
+此根Caucas指浆果所以听到它你脑海里浮现原研的浆果就对了杆菌
+
+Basilis 代表小棍子 螺旋菌 Spiralum 看前面的Spiral
+
+就知道是螺旋状Finally它们怎么繁衍生存主要靠二分裂Binary Fission
+
+Binary是二Fission是分裂需要注意的是二分裂能产生两个相同的细胞所以细菌能很快增多
+
+另外还有一种叫结合ConjugationCon表示一起Ugum表示额
+
+也就是连在一起结合不产生新细胞它仅仅是在细胞间传递DNA那遇到恶劣环境呢它们会形成内生胞子
+
+Andospore Ando 之内部 以此度过恶劣环境 总结来说
+
+细菌是依赖细胞壁维持形态能通过二分裂快速繁殖并利用内生胞子度过恶劣环境的无核单细胞生物来
+
+直接进入实战测试第一题但是他们的有
+
+CNA And is copied with it Leo It hides in the host chromosome 第四题
+
+A virus that infects bacteria is called a 答案是 Bacteriophage 拆解一下
+
+Bacterial等于BacteriaPhage等于Eater第五题Which structure is found in a bacterium?选Nucleoid
+
+因为The nucleoid is the DNA regionWithout a membrane下一题A bacterium shaped like a rod
+
+is a 答案是 Bacillus 理由很简单 Bacillus等于Rod
+
+How do bacteria reproduce? Danshe Binary Fission 原理在于 They copy DNA
+
+And split in two Conjugation in bacteria Danshe Passes DNA Between two cells
+
+请记住It is a DNA transferNot reproductionEndospores help bacteriaDanshe
+
+Survive harsh conditions 原因是 They are tough Dormant forms 倒数第二题
+
+Bacteria that turn Nitrogen gas into ammonia Are doing Danshe Nitrogen fixation
+
+Yuan Linwei Plants can use ammonia 最后一题 Which is the difference Bacteria and Archaea?
+
+正确答案是Bacteria walls containPeptidoglycanArchaea walls do notDanshe
+
+Cell wall chemistry Is one key difference

@@ -1,0 +1,57 @@
+这是一份关于病毒基础概念与运作机制的速成简报咱们开门见山先来主意拆解几个核心词汇第一个微生物microorganism
+
+意思就是小到不用显微镜看不见的生物记忆窍门很简单micro就是小organism是生物接着是病毒
+
+virus 它其实就是一层蛋白质外壳包着遗传物质的微小颗粒 只能在宿主内繁殖 在拉丁语里这词的意思直接就是毒 保护这些遗传物质的蛋白质外壳叫ecapsid
+
+你可以把它想象成一个蛋白质盒子有些病毒外面还会从宿主那偷一层膜上面带着刺突这叫病毒包膜viral envelope
+
+envelope本来就是信封嘛包在最外面的被病毒利用来疯狂制造新病毒的活细胞就是宿主细胞了host cell
+
+host也就是接待客人的主人既然离开宿主根本没法生存和繁殖所以病毒属于专性寄生物obligate parasite这里的obligate就是非如此不可的意思
+
+那么专门感染细菌的病毒叫什么呢叫弑菌Tbacterial funge前面bacterial代表细菌后面的fung是吞食
+
+病毒繁殖有两种主干模式一种是裂解周期lytic cycle也就是迅速复制然后让宿主破裂释放
+
+lysis 以为裂开 另一种比较狡猾 叫容缘周期 lisogenic cycle
+
+它会把自己的DNA整合进宿主的DNA里跟着细胞分裂悄悄复制简单概括就是先潜伏后裂解
+
+像HIV这种呢属于逆转路病毒retrovirus它能把RNA反转路成DNA并整合进宿主
+
+retro 以为向后 咱们防范它们 靠的是疫苗 vaccine
+
+就是用无害或者减弱的病原体来提前训练免疫系统词跟VACA指的是牛这个牛都有关刚才提到的病原体
+
+tasgen 也就是引起疾病的生物或病毒 tasso指疾病 gen是产生 最后是抗生素
+
+antibiotic 这是一种杀菌药物 注意了 它对病毒完全无效 anti是对抗
+
+bio是生命那么把这些概念串联起来你可能已经在想了病毒到底算是生命吗其实它处在生命的边缘地带
+
+它没有细胞结构没有新陈代谢也没把毒力繁殖但它又有遗传物质而且会演化
+
+它的遗传物质就藏在刚刚说的一壳里部分带包膜的依靠上面的刺突死死附着在宿乳上在繁殖策略上
+
+对比裂解周期那种强攻注入附之后直接撑破细胞的狂暴打法荣原周期更像是个潜伏的特工曾在宿主染色体中随之复制
+
+只有遇到压力诱因了才会突然斩入裂解所以为什么抗生素治不好普通感冒就是因为抗生素攻击的是细菌细胞壁这些结构
+
+而病毒根本没这些东西我们要对付它得靠疫苗用无害片段让身体产生记忆细胞提前备战概念理顺了
+
+咱们直接进入高频考点自测阶段Which of this is not a feature of viruses答案是各自的核糖体Viruses have no ribosomesThey use the hosts
+
+Viruses are called obligated parasites because they 答案是仅在宿主内繁殖 They must use the host cell to reproduce In which cycle does the host cell burst quickly?
+
+答案是裂解周期Lysis means bursting openIn the lysogenic cycleViral DNA答案是整合进宿主的DNA
+
+Bing随之复制It hides in the host chromosomeA virus that infects bacteriais called a答案是氏菌体
+
+Bacterial equals bacteria Phage equals eater Antibiotics are useful against 答案是细菌感染 Antibiotics target bacteria
+
+No viruses A bacterium shaped like a rod 答案是 Gar君 Bacillus equals rod
+
+Which is an example of mutualism 答案是 肠道细菌帮助消化食物 双方都受益 Both size benefit
+
+Bossice benefit

@@ -1,0 +1,19 @@
+这是一份关于第二单元演化核心要点的极简素报这份笔记浓缩了种群演化与新物种诞生的底层逻辑咱们花个一分钟就能完全搞定第一咱们先聊聊自然选择其实啊变异variation和突变mutation会产生出新的等位基因
+
+allial 经过遗传适者生存繁衍更多 这就是自然选择natural selection 哎你可能会想 哎生物难道是为了活下去自己去改变基因的吗
+
+绝对不是这里的核心考点是演化只发生在种群层面个体本身是不演化的第二既然基因在不断变化把时间拉长会怎样呢
+
+种群内日积月累的微观演化microevolution最终就会变成产生新物种的宏观演化macroevolution比如当河流造成了地离隔离geographic isolation
+
+种群被分开没法互相繁殖自然就导致了物种形成spaciation第三
+
+除了大自然运气同样关键像灾难导致数量大减的瓶颈效应bottom neck effect或者少数个体去星灵地建群的奠基者效应
+
+fondure effect 都能深刻改变物种未来 此外 同源结构 homologous structures
+
+是指祖先相同但功能不同而同工结构analogous structures则是功能相同
+
+但祖先不同那么如果人类介入这个过程呢在人工选择artificial selection中
+
+人们让具有想要性装的个体繁殖野界菜就是这样变成了西兰花犬腥菜和鱼衣甘蓝

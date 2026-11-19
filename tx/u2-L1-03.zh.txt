@@ -1,0 +1,21 @@
+这是关于演化核心术语的简报这份笔记精准提炼了生物演化最核心的四个词汇以及实战考点帮你知己要点首先第一点自然选择英文是nature selection
+
+也就是性状更适应环境的个体能存活和繁殖的更多这些性状在种群里也就越来越常见了技巧门大自然来选变异遗传过量繁殖存活差异
+
+接着来看第二点适合度fitness它是指生物与同类相比存活并繁殖后代的成功程度这里的技巧门是
+
+生物学里fit等于留下更多后代不是强壮那么第三点适应adaptation这指的是能帮助生物在其环境中生存和繁殖的遗传性状
+
+你可以这么记adapt等于使适合让身体适合其环境最后第四点选择压力selective pressure它是指影响哪些个体能存活并繁殖的环境因素
+
+记住这个窍门pressure等于把重群推向某个方向把他们串联起来就形成了自然选择的四步
+
+一变异个体各不相同二遗传有些性状会传下去三出生的后代多于能存活的
+
+四有力性状的个体存活并繁殖的更多好现在直接进入快速测试听好第一题
+
+which is the original source of new alleles 答案是mutation 理由很简单 mutations create new alleles selection only source them
+
+在来看第二题in natural selectionfitness means答案是success at surviving and reproducing
+
+fitness is about living offspring not strength

@@ -1,0 +1,71 @@
+starting with the first term, the cell wall. The cell wall. So this is exactly what it sounds like. It's this stiff outer layer that protects the cell and gives it shape. Okay. And the notes say you find it in bacteria, archaea, plants, and fungi. Right. And the memory hook here is just to picture a wall around a castle. It's the primary barrier against a hostile outside world. Okay. So the quick check for this one asks, do animal cells have a cell wall?
+
+The answer is no, they don't. Which is wild to think about. We don't have castle walls. No. Animal cells just have flexible membranes. We rely on complex immune systems instead of individual rigid armor. Got it. So if the bacterium has this castle wall, what is the microscopic stone mortar actually made
+
+of? Peptidoglycan. Yeah, that is a long one. Peptidoglycan. But if you break it down, the word literally tells you its exact recipe. Oh, really?
+
+Yeah. So pepti refers to protein bits, you know, like peptides, and glycan means sugar. So protein plus sugar. Right. Protein plus sugar equals the wall mesh. It's an interlocking mesh of sugars and amino acids that makes up most bacterial cell walls. Okay. That makes sense. So the quick check asks, which cell wall contains peptidoglycan,
+
+bacteria or plants? Bacteria. Awesome. Okay. So we've breached the peptidoglycan castle wall and we're moving inside to the nucleoid. The nucleoid. Right.
+
+The notes define this as the region in a prokaryote with circular DNA, but there's no membrane. Exactly. The hook here is that it translates to nucleus-like. Okay. So in our cells, a true nucleus is like a locked vault for DNA behind a membrane, but the nucleoid doesn't have that.
+
+So the quick check asks, does the nucleoid have a membrane? And the answer is no. Think of it as like an open plan office for the genetic instructions. An open plan office for DNA. I love that. But it's not the only DNA in there, right? Because the next term is plasmid.
+
+Right. Plasmids. These are small rings of extra DNA. And the hook for plasmid is a little plasma ring. Yep. A little plasma ring floating around. And these often carry really specific, powerful genes like the instructions for antibiotic resistance. Quick check asks, can plasmids move between bacteria?
+
+Yes, they absolutely can. Like during conjugation, which we'll talk about soon, they actively pass these cheat codes around. That is so wild. Okay. So we have the armored wall, the open plan DNA office, the plasmid cheat codes. How do they move? Next term is flagellum or plural flagella.
+
+Flagellum. So the hook here is Latin for whip. Latin for whip. Got it. It's a long whip-like tail that moves the cell. But what's cool is it actually spins like a tiny propeller. So the quick check is simple. What does it do?
+
+It moves the cell. Moves the cell. Easy. But what if they want to anchor down? That's the pillus or pilli for plural. Right. Pillus. And the hook matches the word perfectly. It means hair. It's a short hair-like projection. Yeah. Imagine the bacterium covered in tiny, rigid hairs.
+
+So the quick check asks to give one job for the pillus. The answer is attaching to surfaces or passing DNA and conjugation. They act like microscopic Velcro or as grappling hooks to build a bridge to another bacterium. A bridge for passing those plasmids. Wow. Okay. Next term is capsule. This is an extra sticky outer layer.
+
+Yeah. The hook is a protective case. Okay. So the quick check asks, what is it for? Protection and sticking to surfaces. So to put this together, if the cell wall is the castle wall, the capsule is like a sticky moat on the outside of it? That's a great analogy. Yeah. And the peptidoglycan is the stone and mortar mesh of the wall itself.
+
+Got it. Last structural term, ribosome. Right. This is a tiny structure that builds proteins. And the hook is ribo comes from RNA and soma means body, so an RNA body. Exactly. It's the protein factory. So the quick check asks, do prokaryotes have ribosomes?
+
+Yes. The answer is yes, all cells do. You can't be alive without building proteins. Okay. So that is the bacterial blueprint. Section two is shapes and survival. Right. Because their robust anatomy lets them take on very specific shapes. The first shape term is caucas.
+
+Caucus. Yeah. The hook is from the Greek caucos, which means berry. So the quick check asks, which shape is caucas? Round or sphere shaped? Next is bacillus. The hook for that is little rod.
+
+Quick check. Which shape? Rod shaped. Simple as that. And then spirulam. The hook is in the name. Spiral equals spirulam. What shape?
+
+Spiral or corkscrew shaped. Okay. So berries, rods, and spirals. Let's move on to how they multiply. The term is binary fission. Right. Reproduction by copying DNA, growing, and splitting.
+
+The hook is binary means two, and fission means splitting. So splitting into two. The quick check asks, how many cells result? Two. One cell becomes two identical cells. But wait. Earlier we talked about bacteria sharing plasmids using those p-li bridges.
+
+The next term is conjugation. Conjugation. Yes. The hook is con, means together, and yugum, means yolk, joined together. Two bacteria joined by a plis to pass DNA. So the quick check asks, is it reproduction?
+
+No. The answer is no. Why not? What's fascinating here is that they swap DNA, they share plasmids, but it doesn't make new cells. So they just share the upgrades. But the population size stays the same.
+
+Exactly. Crazy. Okay. Last term in this section is endospore. Endospore. The hook is endo, means inside. It's a spore formed inside.
+
+The notes say it's a tough, dormant form to survive heat, dryness, or chemicals, like a panic room. A heavily armored panic room, yeah. The quick check asks, why is it a food safety problem? Because they survive the high heat that normally kills ordinary bacteria. Okay. Section three. Tying these concepts together. Let's summarize the anatomy.
+
+Sure. A bacterium has a cell wall, a cell membrane, ribosomes, and a nucleoid DNA ring. But absolutely no nucleus. Right. And some add capsules, flagella, or pili. And for reproduction, binary fission lets them multiply rapidly, while conjugation just passes DNA without making new cells. Exactly.
+
+Now, comparing bacteria versus archaea, both are single-celled prokaryotes without a nucleus. But a key difference. Bacterial walls have peptidoglycan. Archaeal walls do not. Okay. Here's where it gets really interesting for me. The notes connect this to antibiotics and viruses.
+
+Yeah. This is such an important real-world application. Antibiotics attack bacterial structures. Like they specifically target the cell wall. Right. They destroy that peptidoglycan mesh. Right.
+
+But because viruses lack these structures, they don't have peptidoglycan. They don't even have their own ribosomes. Antibiotics do absolutely nothing against a cold or a flu. That just makes so much sense. I finally understand exactly why antibiotics fail against viruses.
+
+It makes all that structural anatomy feel incredibly relevant. It really is. Okay. Section four. The final exam. The notes end with a list of rapid-fire test questions to review everything.
+
+Let's do this. I am ready. Okay. First question. Which of these is not a feature of viruses? Their own ribosomes.
+
+Right. They don't have them. They have to use the hosts. Perfect. What is the cycle where the host cell bursts quickly?
+
+The lytic cycle. Because lysis literally means bursting. What happens in the lysogenic cycle? The viral DNA joins the host's DNA and is copied with it. It basically hides.
+
+Sneaky. What do you call a virus that infects bacteria? A bacteriophage. Bacterio means bacteria. Phage means eater.
+
+What is the structure found in a bacterium where the DNA lives? The nucleoid. That's the DNA region without a membrane. What is a rod-shaped bacterium called? Bacillus.
+
+The word means rod. How do bacteria reproduce? Binary fission. They copy their DNA and split in two. What happens during conjugation in bacteria?
+
+It passes DNA between two cells. Remember, it's DNA transfer, not reproduction. How do endospores help bacteria? They help them survive harsh conditions. They are tough, dormant forms.
+
+What is it called when bacteria turn nitrogen gas into ammonia? Nitrogen fixation. And the reason that matters is plants can use that ammonia to grow. It's not a problem.

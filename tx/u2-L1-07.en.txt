@@ -1,0 +1,15 @@
+This is the brief on artificial selection, genetic modification, and genetic drift. These notes review six key mechanisms of genetic change in populations and finish with a couple of test questions on how alleles originate and separate. First, artificial selection. People choose breeding to make wanted traits common.
+
+Artificial means made by people. Humans do the selecting. How is artificial selection different from natural selection? People, not the environment, choose which individuals breed. Genetic modification changes DNA directly, like adding foreign genes.
+
+Modify means change. Genetic modification means change the genes on purpose. How is genetic modification different from selective breeding? It changes DNA directly, instead of choosing who breeds. Second, genetic drift is a random allele frequency change, strongest in small populations.
+
+Drift is a boat carried by chance, not steered. Is genetic drift caused by fitness? No, it's random chance. Gene flow is allele movement, when individuals migrate and breed. Flow means move.
+
+Alleles flow like water between populations. What effect does gene flow have on two populations? It makes them more alike. Finally, the bottleneck effect is a sharp population drop, leaving a less varied gene pool. A bottle's narrow neck lets only a few through.
+
+What happens to genetic variation after a bottleneck? It's reduced. New population, started by a few, has a small original allele sample. A founder is the person who starts something. A few birds blown to an island start a new population.
+
+Which effect is this? The founder effect. Which is the original source of new alleles? Mutation. Mutations create new alleles.
+
+Selection only sorts them. A river splits one squirrel population into two. This is geographic isolation. A physical barrier separates the groups.

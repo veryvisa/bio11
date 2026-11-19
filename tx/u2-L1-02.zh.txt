@@ -1,0 +1,21 @@
+这是一份关于生物演化核心术语的快速简报其实呢这份资料梳理了演化中最关键的四个词汇及其逻辑帮你省去冗长阅读
+
+直接掌握肝火首先咱们看看可遗传性状也就是heritable trait它其实就是亲代通过基因传给后代的性状技法很简单
+
+heritable就等于可被继承的那等位基因alleal其实就是同一个基因的不同版本打个比方
+
+基因是菜谱等位基因就是这份菜谱的不同版本那么这些词怎样连在一起呢其次我们来看看基因库也就是Jean Pooh
+
+它代表一个种群全部个体所携带的全部等位基因很好理解毕竟Poh嘛就是汇聚在一起的全部东西在这个库里
+
+某个等位基因所占的比例就叫等位基因频率alleal frequency顾名思义频率等于出现的多频法
+
+而演化最小的表现其实正是这种频率的变化大家一定要注意个体是不演化的是整个种群在改变
+
+微观演化是种群内等位基因频率的小变化而宏观演化则是长时间的大变化包括新物种和新类群
+
+最后随当测试第一题which is the original source of new alleles答案mutation
+
+因为 mutations create new allelesselection only source them第二题natural selection acts directly on答案
+
+individuals 它 favours individuals with helpful traits but the population changes as a result

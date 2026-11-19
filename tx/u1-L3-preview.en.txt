@@ -1,0 +1,9 @@
+This is the brief on the characteristics of life and classification. These biology notes break down the fundamental rules of what makes something truly alive, and the universal system scientists use to organize Earth's massive diversity. First, defining an organism. Well, the absolute baseline for survival is sensing a stimulus and responding.
+
+Organisms also need cells, life's smallest unit. They maintain homeostasis, keeping insides steady like a normal body temperature, and use metabolism, chemical reactions building molecules or releasing energy. Naturally, they reproduce, grow, and develop. Life scales up, whether unicellular or multicellular,
+
+from a cell to tissue, organ, organ system, straight to an organism. Outwardly, a population builds a community, and adding non-living things creates an ecosystem. Second, let's look at taxonomy. Binomial nomenclature gives every species a two-part Latin name, like Homo sapiens. Capitalized genius, lowercase species, both italicized.
+
+Ranks go broad to narrow. Domain, kingdom, phylum, class, order, family, genus, species. Just remember, dear King Philip came over for good soup. Finally, mapping the three domains. Bacteria and archaea are prokaryotes with free-floating DNA and no nucleus,
+
+while eukarya are eukaryotes with a nucleus, including autotrophs and heterotrophs. Identifying species takes a dichotomous key, basically a biological choose-your-own-adventure game. To trace history, cladograms use derived characteristics to define clades. Read these trees by the branch points, representing a common ancestor, not the tips.

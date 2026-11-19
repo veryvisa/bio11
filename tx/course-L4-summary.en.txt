@@ -1,0 +1,125 @@
+An organism. That's just in any single living thing, like a bacterium or a fish. And every organism is made of at least one cell. Exactly. The cell is the absolute smallest unit that can carry out life's functions. Which brings us to metabolism and homeostasis. These are huge.
+
+They are. Metabolism is basically the engine. It's the sum of all the chemical reactions in a cell, either building molecules up or breaking them down to release energy. And homeostasis is what keeps that engine from exploding. That is a great way to put it. It's like a home smart thermostat, right?
+
+Keeping the inside steady even when the outside environment goes completely crazy. Yes, exactly. If the temperature drops, homeostasis is the active process of fixing that. And this happens at all levels of organization. Right. Going from unicellular, just one cell doing everything, to multicellular, where many cells work together. And when similar cells do the same job, they form tissues.
+
+And then those tissues group together to make an organ, like a heart or a leaf. Right. But with all these different organisms out there, we need a way to organize the chaos. That's where taxonomy comes in. The science of naming and grouping things. Exactly. And the standard is binomial nomenclature.
+
+It's a two-part Latin naming system. Genus and species, right? You got it. The genus comes first, which is a group of closely related species. And the species is a group that can actually breed and produce fertile offspring.
+
+Okay. So that's the fine details. What about the big picture, the domains? The highest ranks of life. There are three. First, you have bacteria.
+
+These are single-celled prokaryotes. Prokaryotes meaning their cells have no nucleus, right? The DNA is just floating around. Exactly. Then you have archaea, which are also single-celled prokaryotes, but they're chemically distinct.
+
+They love living in extreme places like boiling hot springs. And the third domain is eukarya. Right. Eukarya are organisms whose cells actually have a nucleus to protect their DNA. That includes protists, fungi, plants, and animals.
+
+Okay. So if a scientist finds something new, how do they know where it goes? They often use a dichotomous key. Dichotomous, meaning two choices. Exactly. You identify organisms by choosing between two descriptions at each step until you narrow it down. It helps build a phylogeny.
+
+Which is the evolutionary history and relationships of a species. Right. And we draw that out using a cladogram. It's a branching diagram that shows those relationships based on shared traits. And a group on that branch is a clade, right? One common ancestor and all its descendants.
+
+Perfect. But there is a massive exception to all these rules we just talked about. The misfits. Yes. The viruses.
+
+Because, wait, are they actually alive? Because a microorganism is anything too small to see without a microscope. But viruses, they don't have cells. No, they don't. A virus sits right on the edge of life.
+
+It has no metabolism. It's literally just a tiny particle of genetic material inside a protein coat. The notes call that coat a capsid. Right. A capsid. And because they have no engine, they can only reproduce inside a host cell.
+
+They hijack it. And some of them even steal pieces of the host to hide themselves. The viral envelope. Yeah. As they leave the host, they steal part of the host's outer membrane to form this spiked envelope.
+
+It's basically a disguise. That is so creepy. Biological hackers. Okay. So moving from the hackers to the actual engine of change.
+
+Evolution. Right. Evolution is simply a change in the inherited traits of a population over generations. But you can't have change without new materials. So it all starts with a mutation.
+
+Exactly. A mutation is a physical change in the DNA sequence. It is the original source of all new genetic variations. And that variation leads to differences in a trait, like say fur color or beak shape. Which brings us to the big one.
+
+Natural selection. I love natural selection. It's just so logical. Individuals with traits that suit their environment just survive and reproduce more. Because the environment is always applying a selective pressure.
+
+Right. Like an environmental factor. A drought, a predator. That affects survival. And this is where people get confused about the word fitness.
+
+It's strictly about how well an organism survives and reproduces compared to others. And high fitness leads to an adaptation, which is an inherited trait that helps survival. Right. Over time, this can lead to speciation, which is the formation of a totally new species. But they have to be separated first, right?
+
+Like through geographic isolation. Yeah. A physical barrier, like a new river or a mountain splitting a population. Or reproductive isolation. Exactly.
+
+Where a barrier stops them from mating or having fertile offspring. Even if they live in the same place. Maybe their mating song changed. And if they find a bunch of empty environments, you get adaptive radiation. Which is this incredibly fast formation of many new species from one ancestor, each filling a different niche.
+
+But not all change is natural. We humans force change, too, through artificial selection. Like breeding dogs or crops for traits we want. Or genetic modification, where we just go in and change the DNA directly, like adding a totally foreign gene. But nature also has random chance.
+
+Like genetic drift. Genetic drift, right? Just random changes in allele frequencies. Yeah. And it's strongest in really small populations.
+
+Sometimes a trait just gets wiped out by bad luck. And there's also gene flow, which is just the movement of alleles when individuals migrate in or out. And we know all this happened because we have the receipts. The fossils. The preserved remains.
+
+Especially transitional fossils, which literally show the traits of older and newer groups at the same time. The missing links. Exactly. And we also look at anatomy. Like a homologous structure.
+
+Homologous. Meaning they look alike because they come from a common ancestor. Like a whale flipper and a human arm. Right. But you have to distinguish that from an analogous structure.
+
+Analogous. So they do a similar job, but they do not share a common ancestor. Like a bird wing and a bug wing. Perfect. So with evolution driving everything, let's look at the microscopic kingdoms that basically run the planet.
+
+Starting with bacteria. The prokaryotes. They are simple, but their architecture is tough. They have a cell wall. Right.
+
+Stiff outer protective layer. Mm-hmm. And in bacteria, it's made of peptidoglycan. Peptidoglycan. It's like a mesh of sugars and amino acids.
+
+And inside, they don't have a nucleus. The circular DNA just hangs out in a region called the nucleoid. But the coolest part is the plasmid. The plasmids are wild. They're these small rings of extra DNA, right?
+
+And they often carry antibiotic resistance. And they can just trade them like trading cards. It's exactly like that. Now, bacteria can be aerobic, meaning they need oxygen. Or anaerobic, meaning they live without it.
+
+And ecologically, they do all the dirty work. They act as a decomposer, breaking down dead matter. But their most important job is nitrogen fixation. Turning nitrogen from the air into plant-usable ammonia. Without that, plants die, and we all starve.
+
+Yep. So that's the bacteria. Next, we have the misfit eukaryotes, the protists. The protist kingdom is literally just everything that is in a plant, animal, or fungus. It is a total junk drawer.
+
+But we generally split them up. You have the protozoan, which is animal-like and feeds on others. And the algae, which are plant-like and do photosynthesis. Right. And the way they move is fascinating.
+
+Take the amoeba. Oh, they use a pseudopod. Yes. A temporary bulge of cytoplasm. They literally just ooze forward to move and eat.
+
+Compared to a paramecium, which is that slipper-shaped one in freshwater, it uses cilia. Cilia. Those short hair-like projections that beat together like tiny oars. Now, out in the ocean, protists are crucial as plankton, the drifting organisms. Specifically, the phytoplankton.
+
+Right. Because they make their own food via photosynthesis and start the entire ocean food chain. And they get eaten by the zooplankton, which are the ones that eat other organisms. A really cool phytoplankton in the notes is the diatom. It's a single-celled alga, but it builds this crazy glass-like silica shell.
+
+They are beautiful. And like all eukaryotes, they contain organelles. Those small structures inside doing specific jobs. Okay. So that's protists.
+
+But when life tried to conquer solid land, it needed the fungi, the network builders. Right. A fungus is a eukaryote, but it's totally unique. For one, its cell walls made of chitin. Chitin.
+
+Wait, isn't that the same tough material in insect shells? It is. And the body of a fungus isn't solid. It's made of hypha. A thin thread of cells?
+
+Right. And thousands of these threads massed together to form a mycelium. And the way they eat is, well, it's honestly gross. They use extracellular digestion. That's very efficient.
+
+They are digesting food outside their body. They release enzymes, proteins that speed up chemical reactions to dissolve their food and then just absorb the soup. So how are they grouped? Mostly by how they reproduce.
+
+You have zygote fungi, like bread molds, which make resting spores in sporangia. And then the sac fungi, like yeasts and penicillium, they make spores in a sac-shaped cell called an ascus. And finally, the club fungi, which are your classic mushrooms and puffballs. They make spores on club-shaped basidia.
+
+Okay, so fungi broke down the rocks and made soil. Now we can finally scale up to the macroscopic world, plants and animals. Let's start with a plant. It's a multicellular eukaryote, has cellulose cell walls, and makes food by photosynthesis. But the first ones were tiny, the non-vascular plants.
+
+Like a bryophyte or moss. They have to stay small and damp because they have no internal transport tissues. No plumbing. But the vascular plants solved that. They evolved tissues like xylem to carry water and minerals straight up from the roots.
+
+Which let them grow huge. But plant reproduction is complicated. They use an alternation of generations. This part always trips me up. They basically live two separate lives.
+
+Exactly. First, you have a haploid generation. Haploid, meaning it only has one set of chromosomes. Right. And this haploid phase is called the gametophyte because it makes gametes.
+
+Okay, gametophyte makes gametes. Then it alternates with a diploid phase, meaning it has two sets of chromosomes. This is the sporophyte, and it makes spores. Okay, that makes sense. And as plants adapted to dry air, their anatomy changed.
+
+Their leaves developed a cuticle. A waxy layer to reduce water loss. But if they're covered in wax, how do they breathe? That's what the stomata are for. They're tiny pores on the leaf for gases to enter and exit.
+
+But they can't just leave the doors open or they dry out. So they have a guard cell on each side. An embryo, a food supply, and a tough seed coat all packed together. In conifers, these are housed in a cone, which is their reproductive structure. And in angiosperms, that structure is the flower.
+
+Which finally brings us to the animal kingdom. The consumers. An animal is a multicellular eukaryote. But we have no cell walls. And we have to eat other organisms to survive.
+
+And most of them are an invertebrate, meaning they have no backbone. Only a very few are a vertebrate, meaning they have vertebrae. We organize animal bodies based on symmetry, right? Where parts are arranged so a cut gives matching halves. Yes.
+
+And some also show segmentation, where the body is made of repeating sections like an earthworm. But the most fascinating part of the animal notes is the embryos. It all starts when the embryo is just a blastula. A hollow ball of cells. Does it really matter how that little ball folds inward?
+
+It determines everything. As it folds, it forms germ layers. The ectoderm is the outer layer, which becomes the skin and nerves. The mesoderm is the middle layer, which builds muscles and bones. And the endoderm is the inner layer, becoming the gut lining.
+
+But the craziest part of embryo folding is the mouth. Oh, right. If the embryo's very first opening becomes the mouth, it's called a protostome. But if that first opening becomes the anus, and the mouth forms later at the other end, it's a deuterostome.
+
+Which means humans develop anus first. We are deuterostomes. It is a humbling biological fact. Truly. So let's quickly parade through the major animal groups.
+
+At the bottom, we have the sponge. They are sessile, stuck in place, porous. They have no true tissues, and they just filter feed. Then you get the cnidarians, like the jellyfish. They have radial symmetry.
+
+When they are stuck to the ground in a tube shape, it's called a polyp. Moving on, we have the arthropod. Insects, crabs. They have jointed legs and a hard exoskeleton. But to grow, they have to do molting, literally shedding their armor to get bigger.
+
+And their life cycles are wild. Some do complete metamorphosis, going from egg to larva to pupa to adult. A total redesign. While others do incomplete metamorphosis. They go from egg to a nymph that looks like a mini-adult, and then straight to adult.
+
+Okay. And finally, our group, the chordate. To be a chordate, you need a few specific things. First, a notochord for back support. You also need a dorsal hollow nerve cord, which becomes our brain and spinal cord.
+
+And within the chordates, we get the mammal. A vertebrate with hair or fur that feeds its young milk from a mammary gland. But our biggest advantage is being an endotherm. Meaning we make our own heat. We have a steady internal temp.
+
+Exactly. Unlike an ectotherm, like a lizard or a fish, whose body temp totally depends on their surroundings.

@@ -1,0 +1,31 @@
+这是一份关于演化中的人类与偶然因素的核心宿地咱们今天就快速梳理一下人类干预和随机事件究竟是如何改变生物种群精英库的第一点来看看人类的影响人们挑选出具有想要性状的个体精英繁殖
+
+这就叫人工选择英文是artificial selection记忆窍门很简单artificial的意思是人造的所以它是由人来选的
+
+也借菜成熟通过这种方式变成了咱们熟悉的西兰花卷心菜和羽衣甘蓝那如果是直接改变生物的DNA比如加入另一物种的基因呢这被称为基因修饰
+
+Genetic Modification Modify就是改变 也就是有目的地去改基因 接下来第二点 自然界的随机变化
+
+等位基因频率在代际之间的随机变化叫做遗传飘变Genetic Drift这在小众训中最明显就像Drift的这个词一样
+
+随波漂流全靠运气而不至靠适应环境而当个体迁移并繁殖后等位基因在重群之间发生了转移
+
+这就形成了基因流Gen Flow也就是说基因像水一样在重群间流动第三点
+
+是极端的重群规模变动当种群数量骤减使得基因库变小变移减少时这就叫平静效应
+
+Bottleneck Effect 想象一下平静很窄 只有少数个体能幸运的通过 如果是少数个体建立的新种群 那就叫奠基者效应
+
+Founder Effect Founder即创始者 他们只带有原种群 等位基因的一个小部分 那么考试到底会怎么问这一部分呢
+
+比如问Which is the original source of new alleles答案是Mutation理由是Mutations create new allelesSelection only source them
+
+如果题目说A river splits one squirrel population into twoThis is答案选Geographic isolation
+
+理由A physical barrier separates the groups那如果是After a hurricane kills most of an island's lizardsThe survivors have fewer alleles
+
+This is 但是 The bottleneck effect 理由 A sharp drop in population size
+
+至于Which is artificial selection但就是Farmers breed cows that give the most milk理由很简单
+
+People choose which individual breed

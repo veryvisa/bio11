@@ -1,0 +1,105 @@
+It really is. So biologically speaking, a protist is a eukaryote, meaning it's an organism with complex cells containing a nucleus. But the key is that it's not an animal, it's not a plant, and it's not a fungus, and they're mostly single-celled. So they're defined more by what they aren't than by what they are. Like if you're looking through a microscope and you see an amoeba oozing across a slide.
+
+Right, yeah. You know it's a protist simply because, well, it's a single-celled eukaryote, but it clearly doesn't have the structures to be a plant or an animal. So it's just this biological leftover? A leftover, yeah. But a profoundly ancient one. If we break down the word root, proto means first.
+
+Okay, first. Yeah. Protists are considered the first eukaryotes. So before we can understand how they hunt or, you know, shape the oceans, we really need to know what they are on the inside. Right, because to do all this complex behavior as a single cell, I mean, they must need some serious internal machinery.
+
+They absolutely do. And broadly speaking, the notes divide them into two functional groups based on how they get their energy. You've got protozoans and algae. Protozoans and algae. Okay. And the roots of the words tell the whole story here. Proto means first, and zoo means animal. Oh, like a zoo.
+
+Exactly. So a protozoan is an animal-like protist. It's single-celled, and it survives by feeding on other organisms. They are the first animal-like cells. And then on the flip side, we have algae, which singular is alga. Plural is algae. Yep, that's right. And these are the plant-like protists. So instead of hunting prey, they make their own food through
+
+photosynthesis. Right, but whether they're hunting or photosynthesizing, they are eukaryotes, which means they have highly specialized hardware inside that single cell. The little mini-organs? Exactly. These structures are called organelles.
+
+Or-ga-nel. The word literally means a little organ. It's derived from organ plus the suffix L, which means little. That makes sense. Like how we have a heart or lungs, the protist has organelles executing specific jobs.
+
+So what actually makes up these cells? What's the boss of these little organs? The boss is definitely the nucleus. And our source points out that the word nucleus actually comes from the Latin for kernel. A kernel. Like a popcorn kernel. Basically, yeah. Visually, it's this dense kernel at the center of the cell, and its entire
+
+job is to safeguard the cell's DNA. It's the master blueprint. But, I mean, a blueprint doesn't do you any good if you don't have the energy to actually build anything, right? Exactly. Every factory needs power. Which brings us to the organelle whose specific job is to release energy from food for the cell. The mitochondrion, or plural mitochondria.
+
+The powerhouse of the cell. The classic line. Yeah, the notes have a great memory hook for this. Mighty mitochondria powerhouse. But, if we look at the word breakdown, it describes how they physically look. Mito means thread, and chondrion means granule.
+
+A thread granule. Right. So that's how an animal like protozoan releases energy from food. But what about the plant-like algae? Good question. They need completely different machinery to manufacture their own food from scratch. They need a chloroplast. This is the specific organelle that carries out photosynthesis.
+
+Let's break that down, too. Chloro means green, and plast means form. So a green form. And it's green because it contains chlorophyll. Chloro is green, and phil means leaf. So chlorophyll literally translates to green leaf stuff. Green leaf stuff. I love how literal biologists were back then. I know, right? And it's that green pigment that captures the light energy.
+
+And that solar energy powers photosynthesis. Photo meaning light, and synthesis meaning to put together. So making sugar from carbon dioxide, water, and light. Exactly. So just to recap the internal machinery for you, we have the nucleus holding the DNA, the mighty mitochondria releasing energy, and the chloroplast running photosynthesis. Okay, wait, I have to pause here. How did a single cell get all these complex specialized
+
+mini-organs in the first place? I mean, it feels like way too much specialized machinery to just, you know, spontaneously pop into existence. It definitely didn't just pop into existence. The explanation is one of the most mind-bending theories in biology, the endosymbiotic theory. Endosymbiotic theory.
+
+Let's look at the roots. Endo means inside, sim means together, and bio means life. So living together inside. Living together inside. Okay. So the theory is that mitochondria and chloroplasts weren't originally part of the cell at all? Right. The idea is they began as completely independent, free-living prokaryotes,
+
+which are simpler cells without a nucleus. And they just got swallowed? Pretty much. Permanently became mitochondria and chloroplasts. That is wild. Okay, since this is a review, let's just seamlessly integrate a quick practice check here based on the notes. Like, if you were asked on a test, which is a protist? You'd want to answer amoeba, because it's a single-celled eukaryote, not a plant, animal,
+
+or fungus. Right. And if the question is, which organelle releases energy from food? That's the mitochondria, the cell's powerhouses. Which organelle carries out photosynthesis? Chloroplasts, because they contain chlorophyll. And finally, endosymbiotic theory explains the origin of?
+
+Mitochondria and chloroplasts, because they began as engulfed prokaryotes. Awesome. Okay. So we know what's inside them now, but how do these microscopic entities actually survive in the wild? They don't have legs, they don't have mouths. How do they move and eat? It requires some really wild physical engineering. Let's look at locomotion first. There are three main ways they move, starting with the pseudopod.
+
+Which is used by the amoeba, right? Yes. And amoeba is actually Greek for change, which makes sense because it uses a pseudopod, pseudo meaning false, and pod meaning foot, a false foot. A false foot. But it's not a foot like we think of it. It's described as a temporary bulge of cytoplasm.
+
+So it just pushes its own fluid forward to move or engulf food. Exactly. But it's pretty slow. If a protist needs to move fast through fresh water, it might use cilia, like the paramecium. The paramecium.
+
+That's the one shaped like a slipper, right? Yep. Paramecium actually means oblong, and it uses cilia, which is Latin for eyelashes. Eyelashes. Yeah, there are these short hair-like projections all over the cell, and they beat together exactly
+
+like little oars on a boat. That's amazing. Okay, so false feet, eyelashes. And the third method is the flagellate, a protist that moves with one or more whip-like tails.
+
+Because flagella means whip. Right. And that brings us to the euglena, which is just incredible. I am fascinated by the euglena. It's a flagellate, but it also has chloroplasts.
+
+It's literally like a tiny solar-powered submarine. It really is. Because it even has an eye spot to sense light so it can swim toward it. I read that euglena means true, and glennae means eyeball. True eyeball.
+
+But it isn't a true eye, right? It just senses light. Right. It doesn't see images. But it uses that light to photosynthesize.
+
+And here's the crazy part. If it gets dark, it can just start eating other organisms. Wait, so it's a plant and an animal? Basically. It's a mixotroph.
+
+Mixo means mixed, and troph means feeding. Mixed feeding. It makes its own food and eats others. Okay, but how does it actually digest food? Wait, before digestion, how does a freshwater protist keep from just filling with water and popping?
+
+Oh, water management is a huge issue. Freshwater protists use a contractile vacuole. Contract means to squeeze, and vacuole means small, empty space. So it's this little bubble that pumps out excess water so the cell doesn't burst. Like a microscopic bilge pump.
+
+Exactly. And for eating, they use a food vacuole, which is a bubble where engulfed food is digested. And they get the food in there through phagocytosis. Phagocytosis. Phago means to eat, and cyto means cell.
+
+Cell eating. Yeah, it's cell eating by physically wrapping its membrane around a food particle and pulling it inside. Okay, let's do another quick practice check for you based on this section. An amoeba moves by using... Pseudopods.
+
+Those temporary bulges of cytoplasm. Paramecia moves using... Cilia. They beat like ores. A euglena can both photosynthesize and eat.
+
+It is a... Mixotroph. Mixed feeding. The contractile vacuole of a freshwater protist. Pumps out excess water to prevent bursting.
+
+And finally, phagocytosis is... Cell eating by wrapping around food engulfing the particle into a vacuole. Perfect. Okay, so it's easy to think of all these single cell organisms as just like tiny isolated pond water curiosities. But they actually have a massive macro impact on the world, right?
+
+Oh, absolutely. When they multiply or lift together, they literally shape the world's oceans. Let's look at plankton. Plankton is Greek for drifter. They are tiny drifting organisms.
+
+Because they're too small to swim against the current. Right. And they're divided into phytoplankton, phyto meaning plant, and zooplankton, zoo meaning animal. And the zooplankton eat the phytoplankton. Exactly.
+
+But the phytoplankton are arguably the most important because they make food and oxygen at the very base of the ocean food chains. They're the first link. Okay, and within these drifting algae, there are some really weird ones. Like the diatom. Oh, diatoms are beautiful.
+
+They're algae with a glass-like silica shell. Dia means through, and tom means cut. So a shell cut in two halves. Like a little glass pillbox. Yeah.
+
+But then you have dinoflagellates, which are a bit more dangerous. They have two flagella, and they spin as they swim. Dino means whirling. So a whirling whip. And the notes say they can cause an algal bloom, which is just a massive burst of growth.
+
+Right. And if it's a bloom of toxic dinoflagellates, it causes a red tide. The water actually turns red, and they poison shellfish. That's terrifying. But then you have green algae, which are much nicer.
+
+They're actually the closest relative to land plants, sharing the same chlorophyll types. And you also see colonial organisms. A colony is just a group living together. These are single cells living together. But each one can still survive alone.
+
+Wow. They just choose to team up. Now, what about the slime mold? Because that one creeps me out. It feeds on dead matter and creeps like a giant cell.
+
+Yeah. People always think it's a fungus, but it is not a fungus. It is a protist. Okay. But everything we've talked about so far sounds completely microscopic.
+
+Are protists strictly tiny? Not at all. This is where we talk about kelp. Kelp. Like the huge underwater forests.
+
+Yes. Kelp is a large brown cold water alga. It's multicellular, but it has no true roots, stems, or leaves like a plant does. So it is best classified as a multicellular protist. Now, there is one more major macro impact we have to cover, and it's on human health.
+
+Disease. Right. The dark side. The notes specifically mention plasmodium. Plasmodium is the protist that causes malaria.
+
+And this is a crucial point. Malaria is caused by a protist. It is not a bacterium. No. It's a single-celled eukaryote.
+
+Okay. But it needs help getting around. It needs a vector. Vector is Latin for carrier. Mm-hmm.
+
+So it's an organism carrying a pathogen between hosts. And for malaria, the mosquito is the vector. Yes. The mosquito just carries the plasmodium protist. Okay.
+
+Last round of practice questions for you listeners based on this ocean and disease section. Phytoplankton are important because they... Make food and oxygen at the base of ocean food chains. Which protist has a glass-like shell of silica? That's the diatom.
+
+A red tide is caused by... A bloom of toxic dinoflagellates, which poison shellfish. Which organism is the vector of malaria? The mosquito. It carries the plasmodium protist.
+
+And finally, kelp is best classified as... A multicellular protist, or a brown alga, because it's a large alga with no true roots, stems, or leaves. Amazing. Well, that wraps up the review content. So let's quickly recap the incredible journey we've just taken.
+
+We started with the very first single-celled eukaryotes and all their little organs. The nucleus, the mighty mitochondria, the chloroplasts. Yep. We learned how they hunt with false feet and cell-eating. How they survive the water pressure with a contractile vacuole.
+
+And then we zoomed out. Way out. To massive kelp forests, the base of the ocean food chains. And even global diseases carried by mosquitoes.
